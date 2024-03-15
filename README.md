@@ -8,10 +8,15 @@ MLFLOW_TRACKING_URI=https://dagshub.com/cvijay4u/ML-flow-Expriement-Demo.mlflow 
 MLFLOW_TRACKING_USERNAME=cvijay4u \
 MLFLOW_TRACKING_PASSWORD=a07dbb5f8a53e6da77ff65f5e2798d42c41e5c32 \
 python script.py
+
+MLFLOW_TRACKING_URI=https://dagshub.com/cvijay4u/Chest-Disease-Classification-from-Chest-CT-Scan-Image.mlflow \
+MLFLOW_TRACKING_USERNAME=cvijay4u \
+MLFLOW_TRACKING_PASSWORD=a07dbb5f8a53e6da77ff65f5e2798d42c41e5c32 \
+python script.py
 '''
 ### RUN from bash terminal
 '''
-export MLFLOW_TRACKING_URI=https://dagshub.com/cvijay4u/ML-flow-Expriement-Demo.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/cvijay4u/Chest-Disease-Classification-from-Chest-CT-Scan-Image.mlflow
 export MLFLOW_TRACKING_USERNAME=cvijay4u
 export MLFLOW_TRACKING_PASSWORD=a07dbb5f8a53e6da77ff65f5e2798d42c41e5c32
 
